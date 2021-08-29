@@ -2,6 +2,10 @@
 
 ### Come along as I plan, design, implement, and support software for my most ambitious side project yet
 
+8/28/2021
+
+I have created my milestones, planned my environments, and I have a growing list of high-level issues that need to be broken down and entered into GitHub. I am wearing my project manager hat this Saturday night.
+
 8/25/2021
 
 I have hashed out my approach to authentication; I am going to use an OpenID Connect authorization code flow for the authentication of this application. Thanks to a talk on modern authentication I gave late last year this was a relatively easy decision. I am going to use Auth0 for this authentication. Nothing against Okta but I used Auth0 for a client last year and I am going the more familiar route for this part of the project. (I am awaire that Okta now owns Auth0.)
