@@ -1,5 +1,7 @@
 # Marine (code name)
 
+Follow my journey with this [developer diary](https://github.com/kuehnd96/marine/blob/main/Diary.md)
+
 ## Genesis
 
 I like to track a lot of data when I take on a job search (companies, opportunities, recruiters). This data helps me in future job searches. I have been keeping track of my job searches using an Excel spreadsheet since I started tracking this data. As the breadth of data that I wanted to track grew it occurred to me that I could create software to tracking this data much more efficiently than using Excel.
