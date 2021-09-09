@@ -2,6 +2,10 @@
 
 ### Come along as I plan, design, implement, and support software for my most ambitious side project yet
 
+9/8/2021
+
+I have done little to nothing on this project since my last entry in this diary. I had 5 days off for Labor Day weekend and I took a break from screens for the whole time. I love computers and coding but I need a break from them from them at rare times. These days I only have a little time each week to work on this side project but I am determined to keep the momentum going.
+
 8/28/2021
 
 I have created my milestones, planned my environments, and I have a growing list of high-level issues that need to be broken down and entered into GitHub. I am wearing my project manager hat this Saturday night.
