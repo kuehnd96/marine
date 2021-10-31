@@ -2,6 +2,10 @@
 
 ### Come along as I plan, design, implement, and support software for my most ambitious side project yet
 
+10/30/2021
+
+Happy Halloween for those of you in the United States. I have not worked on this side project since early September. The reason is something big has snatched my attention that is a higher priority than this side project. I won't get into details of what that is at this time. I will get back to this project as soon as I can. I have been thinking about the design of this project here and there and I am still excited about it. Stay tuned.
+
 9/8/2021
 
 I have done little to nothing on this project since my last entry in this diary. I had 5 days off for Labor Day weekend and I took a break from screens for the whole time. I love computers and coding but I need a break from them from them at rare times. These days I only have a little time each week to work on this side project but I am determined to keep the momentum going.
