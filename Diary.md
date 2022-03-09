@@ -2,6 +2,10 @@
 
 ### Come along as I plan, design, implement, and support software for my most ambitious side project yet
 
+3/8/2022
+
+Hello. Well, my job search ended in January and I am now enjoying my new job. This job search was the higher priority that forced me to put this side project aside. While I am just over a month into my new job I still have to keep this side project on the back burner. I have a small side project and a big one to tackle before I get back to this one. I still plan to see this project through down the road a bit. I will return to this.
+
 10/30/2021
 
 Happy Halloween for those of you in the United States. I have not worked on this side project since early September. The reason is something big has snatched my attention that is a higher priority than this side project. I won't get into details of what that is at this time. I will get back to this project as soon as I can. I have been thinking about the design of this project here and there and I am still excited about it. Stay tuned.
